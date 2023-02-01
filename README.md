@@ -11,3 +11,4 @@ propriedade que precisamos alterar.<H5>
 pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso 
 no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
+![Captura de tela 2023-02-01 090600](https://user-images.githubusercontent.com/112557591/216038476-49cef07f-e78b-4ece-af68-ef36a87ae78b.png)
